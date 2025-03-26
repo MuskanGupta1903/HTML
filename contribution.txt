@@ -1,0 +1,1 @@
+VAIBHAV 2410990479 - Improvement Idea - Enhance UI Design: Improve layout with CSS styling and add responsiveness for better user experience.
